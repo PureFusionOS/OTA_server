@@ -1,0 +1,33 @@
+{
+   "filename":"placeholder.zip",
+   "build_date":"20170530",
+   "filesize":354418688,
+   "md5":"placeholder",
+   "developer":"Eliminater74 & tabp0le",
+   "url":"https://www.androidfilehost.com/?fid=817550096634772430",
+   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170526_142642-UNOFFICIAL_changelog.txt",
+   "donate_url":"",
+   "website_url":"https://forum.xda-developers.com/htc-10/development/rom-pure-nexus-mod-substratum-volte-t3611743",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=673368273298953529"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170509",
+         "url":"https://www.androidfilehost.com/?fid=745425885120730638"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v12.0",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ]
+}
