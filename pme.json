@@ -1,12 +1,11 @@
 {
-   "filename":"purenexus_aosp_pme-7.1.2-20170527_125310-UNOFFICIAL.zip",
+   "filename":"purenexus_aosp_pme-7.1.2-20170530_163058-UNOFFICIAL.zip",
    "build_date":"20170530",
-   "filesize":581017600,
-   "md5":"62f3bf0deea40b53f22126bf89523f25",
+   "filesize":619119285,
+   "md5":"f92c6e5223e662653f17969aa1dfd6c1",
    "developer":"Eliminater74 & tabp0le",
-   "url":"http://pn-ota.jhdev.me/download/817550096634772430"
-",
-   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170526_142642-UNOFFICIAL_changelog.txt",
+   "url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170530_163058-UNOFFICIAL.zip",
+   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170530_163058-UNOFFICIAL_changelog.txt",
    "donate_url":"",
    "website_url":"https://forum.xda-developers.com/htc-10/development/rom-pure-nexus-mod-substratum-volte-t3611743",
    "addons":[
