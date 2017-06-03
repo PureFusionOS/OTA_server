@@ -1,14 +1,19 @@
 {
    "filename":"purenexus_aosp_pme-7.1.2-20170530_163058-UNOFFICIAL.zip",
    "build_date":"20170530",
-   "filesize":619119285,
-   "md5":"f92c6e5223e662653f17969aa1dfd6c1",
+   "filesize":629996760,
+   "md5":"e01fa96527c3e41a076ed4e1746b2911",
    "developer":"Eliminater74 & tabp0le",
-   "url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170530_163058-UNOFFICIAL.zip",
-   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170530_163058-UNOFFICIAL_changelog.txt",
+   "url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170602_164524-UNOFFICIAL.zip",
+   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170602_164524-UNOFFICIAL_changelog.txt",
    "donate_url":"",
    "website_url":"https://forum.xda-developers.com/htc-10/development/rom-pure-nexus-mod-substratum-volte-t3611743",
    "addons":[
+      {
+         "title":"Eliminater74's Performance Kernel",
+         "summary":"Nebula_9.0.0-EAS_pme_20170530_083756.zip",
+         "url":"https://www.androidfilehost.com/?fid=889764386195903174"
+      },
       {
          "title":"Magisk",
          "summary":"MagiskSu v12.0",
