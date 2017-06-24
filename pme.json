@@ -1,11 +1,11 @@
 {
-   "filename":"purenexus_aosp_pme-7.1.2-20170621_151152-UNOFFICIAL.zip",
-   "build_date":"20170621",
-   "filesize":"653319162",
-   "md5":"efa08aed09811b61a3dd3d95e72fda80",
+   "filename":"purenexus_aosp_pme-7.1.2-20170623_154211-UNOFFICIAL.zip",
+   "build_date":"20170623",
+   "filesize":"647467126",
+   "md5":"93d1eadce80cc07f1ab07a3a2ba1a866",
    "developer":"Eliminater74 & tabp0le",
-   "url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170621_151152-UNOFFICIAL.zip",
-   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170621_151152-UNOFFICIAL_changelog.txt",
+   "url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170623_154211-UNOFFICIAL.zip",
+   "changelog_url":"https://androidbuilds.spryservers.net/purenexusmod/pme/purenexus_aosp_pme-7.1.2-20170623_154211-UNOFFICIAL_changelog.txt",
    "donate_url":"",
    "website_url":"https://forum.xda-developers.com/htc-10/development/rom-pure-nexus-mod-substratum-volte-t3611743",
    "addons":[
@@ -21,8 +21,18 @@
       },
       {
          "title":"SuperSU",
-         "summary":"SuperSU v2.79",
-         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+         "summary":"SuperSU v2.82",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.82-201705271822.zip"
+      },
+      {
+         "title":"Eliminater74 Donate",
+         "summary":"Donate to Eliminater74",
+         "url":"https://forum.xda-developers.com/donatetome.php?u=5687366"
+      },
+      {
+         "title":"tabp0le Donate",
+         "summary":"Donate to tabp0le",
+         "url":"https://paypal.me/tabp0le"
       }
    ],
    "android_version":"7.1.2"
