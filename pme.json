@@ -15,14 +15,24 @@
          "url":"https://www.androidfilehost.com/?fid=889764386195903174"
       },
       {
-         "title":"Magisk",
+         "title":"Magisk v12",
          "summary":"MagiskSu v12.0",
          "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"Magisk v13",
+         "summary":"Beta: v13.0 (c4377ed) (code: 1308)",
+         "url":"https://forum.xda-developers.com/attachment.php?attachmentid=4199816&d=1499018891"
       },
       {
          "title":"SuperSU",
          "summary":"SuperSU v2.82",
          "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.82-201705271822.zip"
+      },
+      {
+         "title":"OTG Hotfix",
+         "summary":"Hotfix for USB OTG (next release will include)",
+         "url":"https://androidbuilds.spryservers.net/purefusion/tools/otg-hotfix-pme.zip"
       },
       {
          "title":"Eliminater74 Donate",
